@@ -11,5 +11,5 @@ If you don't want to include the file, do something like this in .htaccess
 #it kind of worked, but had some issues
 
 ```
-php_value auto_prepend_file auto_prepend_sspassprotect.php
+php_value auto_prepend_file sspasswordprotect.php
 ```
